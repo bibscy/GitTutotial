@@ -12,6 +12,7 @@
 		A3A1A0491D9ABB0800FAB79C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3A1A0471D9ABB0800FAB79C /* Main.storyboard */; };
 		A3A1A04B1D9ABB0800FAB79C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3A1A04A1D9ABB0800FAB79C /* Assets.xcassets */; };
 		A3A1A04E1D9ABB0800FAB79C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3A1A04C1D9ABB0800FAB79C /* LaunchScreen.storyboard */; };
+		A3A1A0561D9ABFBB00FAB79C /* mapUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A1A0551D9ABFBB00FAB79C /* mapUIViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A3A1A04A1D9ABB0800FAB79C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3A1A04D1D9ABB0800FAB79C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A3A1A04F1D9ABB0800FAB79C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3A1A0551D9ABFBB00FAB79C /* mapUIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mapUIViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A3A1A0431D9ABB0800FAB79C /* AppDelegate.swift */,
 				A3A1A0451D9ABB0800FAB79C /* ViewController.swift */,
 				A3A1A0471D9ABB0800FAB79C /* Main.storyboard */,
+				A3A1A0551D9ABFBB00FAB79C /* mapUIViewController.swift */,
 				A3A1A04A1D9ABB0800FAB79C /* Assets.xcassets */,
 				A3A1A04C1D9ABB0800FAB79C /* LaunchScreen.storyboard */,
 				A3A1A04F1D9ABB0800FAB79C /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				A3A1A0461D9ABB0800FAB79C /* ViewController.swift in Sources */,
 				A3A1A0441D9ABB0800FAB79C /* AppDelegate.swift in Sources */,
+				A3A1A0561D9ABFBB00FAB79C /* mapUIViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
